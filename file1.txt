@@ -1,0 +1,4 @@
+This line overwrites the file's content.
+This line will again overwrite. 
+
+Final Line
