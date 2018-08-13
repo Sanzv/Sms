@@ -1,4 +1,4 @@
-'''with open("file.txt",'r+',encoding='utf-8') as f:
+with open("file.txt",'r+',encoding='utf-8') as f:
 	print(f.readline(),end='***')
 	print(f.readline(),end='***')
 	print(f.read(20),end='***')
@@ -12,7 +12,7 @@ with open("anup.png",'rb') as fr:
 		fr_contents=fr.read(len_to_read)
 		while len(fr_contents)>0:
 			fw.write(fr_contents)
-			fr_contents=fr.read(len_to_read)'''
+			fr_contents=fr.read(len_to_read)
 print("\n\t\t***********BROADWAYS STUDENTS MIS************\n")
 cont='y'
 while(cont=='y'):
