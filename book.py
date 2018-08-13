@@ -17,7 +17,11 @@ class Books:
 	def __str__(self):
 		return self.name
 
-	#def assignBookToStudent(self,student):
+	def assignBookToStudent(self,student):
+            nddbajkhbJH CJBC
+            AASCVAUYJH S ASCHAH
+            NAVSUYH
+            AASCCAKH
 
 book1=Books(1,"Think and Grow Rich","Aalu",2018)
 print(book1.getName(),book1.getAuthor(),book1.getEdition())
