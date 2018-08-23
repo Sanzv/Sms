@@ -1,0 +1,91 @@
+[
+{
+	"q":"National Animal of Nepal?",
+	"a":"tiger",
+	"b":"cow",
+	"c":"hen",
+	"d":"lion",
+	"ca":"b"
+},
+{
+
+	"q":"Height of Mount Everest?",
+	"a":"8822m",
+	"b":"8846m",
+	"c":"8848m",
+	"d":"6696m",
+	"ca":"c"
+},
+{
+
+	"q":"Capital of Nepal?",
+	"a":"Mugu",
+	"b":"Humla",
+	"c":"Pokhara",
+	"d":"kathmandu",
+	"ca":"d"
+},
+{
+
+	"q":"National Animal of India?",
+	"a":"tiger",
+	"b":"cow",
+	"c":"hen",
+	"d":"lion",
+	"ca":"a"
+},
+{
+
+	"q":"Largest country?",
+	"a":"China",
+	"b":"USA",
+	"c":"Russia",
+	"d":"India",
+	"ca":"c"
+},
+{
+
+	"q":"Longest River?",
+	"a":"nile",
+	"b":"Amazon",
+	"c":"Karnali",
+	"d":"Sunkoshi",
+	"ca":"a"
+},
+{
+
+	"q":"Smallest Country?",
+	"a":"Sri-lanka",
+	"b":"Mexico",
+	"c":"vatican city",
+	"d":"iraq",
+	"ca":"c"
+},
+{
+
+	"q":"Second tallest Mountain Lies in ?",
+	"a":"India",
+	"b":"Iceland",
+	"c":"Pakisthan",
+	"d":"Nepal",
+	"ca":"c"
+},
+{
+
+	"q":"First lady pilot of Nepal?",
+	"a":"Indira Joshi",
+	"b":"rakshya Rana",
+	"c":"Melina rai",
+	"d":"Bidhya devi",
+	"ca":"b"
+},
+{
+
+	"q":"Number of continents?",
+	"a":"8",
+	"b":"6",
+	"c":"7",
+	"d":"5",
+	"ca":"c"
+}
+]

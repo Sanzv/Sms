@@ -1,0 +1,30 @@
+JSON :
+		- JavaScript Object Notation.
+		- Means of communication among the PLs.
+		- Standard format supported by large number of PLs.
+		- Building API (Application Programming Interface).
+		- Accepts request, transforms req and response to the request
+
+	 1. Key(string) : Value(Can be anything)
+	 2. { } -> jSON OBJECT
+		[ ] -> JSON ARRAY
+
+	 3. {
+	       "name":"Sanjeev" ,
+	       "height": 5.9,
+	       "color": "dark red"
+	    }
+
+	 4. [ { }, [ ], { [ ] }, { [ ] }]
+      Example:
+
+	  [
+	  {
+	    "name":"broadways",
+	    "phone":01512552
+	  },
+	  {
+	    "name":"Me",
+	    "phone": 9810232353
+	  }
+	  ]
